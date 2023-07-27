@@ -1,12 +1,15 @@
 {
     "id": 85438299,
     "name": "tiny julia",
-    "author": "Prometheus",
-    "creators": [],
-    "verifier": "BrightBird",
+    "author": "umru",
+    "creators": [
+        "umru",
+        "pocke"
+    ],
+    "verifier": "umru",
     "verification": "https://youtu.be/rGFDwB571g8",
     "showcase": "https://youtu.be/DXu10VVw1sI",
-    "percentToQualify": 65,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "Dandy Chiggins",
