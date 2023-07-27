@@ -1,0 +1,21 @@
+{
+    "id": 70068243,
+    "name": "tiny julia",
+    "author": "umru",
+    "creators": [
+        "umru",
+        "pocke"
+    ],
+    "verifier": "umru",
+    "verification": "https://www.youtube.com/watch?v=gdXvm_UT6F0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "F1regek",
+            "link": "https://www.youtube.com/watch?v=gdXvm_UT6F0",
+            "percent": 100,
+            "hz": 75
+        },
+        
+    ]
+}
