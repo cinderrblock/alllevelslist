@@ -1,5 +1,5 @@
 {
-    "id": 85438299,
+    "id": 85672495,
     "name": "tiny julia",
     "author": "umru",
     "creators": [
@@ -11,10 +11,10 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Dandy Chiggins",
+            "user": "F1regek",
             "link": "https://youtu.be/Ien0qtWzddc",
             "percent": 100,
-            "hz": 360
+            "hz": 75
         },
         {
             "user": "OneAlphaHelix",
