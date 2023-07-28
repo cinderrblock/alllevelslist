@@ -1,0 +1,17 @@
+{
+    "id": 73333135,
+    "name": "SOBER",
+    "author": "Asthae",
+    "creators": [],
+    "verifier": "Asthae",
+    "verification": "https://youtu.be/WZjBKoc6qsU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "F1regek",
+            "link": "https://youtu.be/WZjBKoc6qsU",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}
